@@ -1,0 +1,17 @@
+.container{
+    height: 40px;
+    width: 100%;
+    background-color: blueviolet;
+    position: relative;
+}
+.first{
+    position: absolute;
+    left: 125px;
+    top: 10px;
+}
+.second{
+    position: absolute;
+    left: 900px;
+    top: 10px;
+
+}

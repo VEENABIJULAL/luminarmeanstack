@@ -1,0 +1,20 @@
+body{
+    background-color: black;
+}
+h1{
+    color: white;
+    text-align: center;
+    text-decoration: underline;
+}
+div{
+    color: white;
+    float: left;
+    width: 30%;
+    height: 400px;
+}
+.first{
+    background-color: white;
+}
+img{
+    width: 100%;
+}

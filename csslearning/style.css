@@ -1,0 +1,15 @@
+.first{
+    color: red;
+    text-align: center;
+    text-decoration: underline;
+}
+.second{
+    color:rgb(21, 189, 49);
+    text-align: center;
+    text-decoration: underline;
+}
+div{
+    border: 2px solid red;
+    background-color: rosybrown;
+    width: 50%;
+}
