@@ -1,0 +1,35 @@
+img{
+    width: 400px;
+    margin-left: 20%;
+    margin-top: 15%;
+    height: 100%;
+}
+.section{
+    width: 25%;
+    height: 60%;
+    border-width: 1px;
+    border-style: solid;
+    border-color:black;
+    padding-left: 5%;
+    padding-right: 2%;
+    position: absolute;
+    top:20%;
+    left: 50%;
+}
+.first{
+    font-family: 'Lobster', cursive;
+font-family: 'Lobster Two', cursive;
+}
+.second{
+    width: 100%;
+}
+.part{
+    width: 25%;
+    height: 20%;
+    border-width: 1px;
+    border-style: solid;
+    border-color:black;
+    padding-left: 2%;
+    margin-left: 50%;
+    margin-top: 2%;
+}
